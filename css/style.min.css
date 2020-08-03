@@ -1,0 +1,28 @@
+.carousel,
+.carousel .carousel-inner,
+.carousel .carousel-inner .active,
+.carousel .carousel-inner .carousel-item,
+.view,
+body{},html{height:100%},
+h3{
+  font-family: 'Fjalla One';
+  font-size: 16px;
+}
+
+h5{
+  font-family: 'Roboto';
+}
+
+p{
+    font-family: 'Roboto';
+    font-size: 16px;
+    text-align: justify;
+}
+.card-img-overlay {
+    position: relative;
+    max-width: 500px; //whatever your max-width should be
+    color: #fff;
+}
+
+.navbar{background-color:rgba(0,0,0,.2)}.page-footer,
+.top-nav-collapse{background-color:#1C2331}@media only screen and (max-width:768px){.navbar{background-color:#1C2331}},
